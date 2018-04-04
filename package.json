@@ -1,0 +1,19 @@
+{
+  "name": "flattenarray",
+  "version": "1.0.0",
+  "description": "code test to flatten nested arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-register --require babel-polyfill --reporter mochawesome"
+  },
+  "author": "Kevin Turney",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "chai": "*",
+    "mocha": "*",
+    "mochawesome": "^3.0.2"
+  }
+}
