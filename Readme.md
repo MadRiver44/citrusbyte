@@ -20,4 +20,10 @@
 ## Here are the Mochawesome test runner results
 ![Tests](https://user-images.githubusercontent.com/7386478/38339317-a015757c-383b-11e8-80ae-480b18937c4f.png)
 
+## To run
+ 1. clone this repo
+ 2. npm test
+ 3. open mochawesome-report/mochawesome.html
+ 
+
 
